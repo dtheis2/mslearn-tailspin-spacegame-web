@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/devynmtheis/devopslabs/_apis/build/status/dtheis2.mslearn-tailspin-spacegame-web?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/devynmtheis/devopslabs/_build/latest?definitionId=4&branchName=refs%2Fpull%2F2%2Fmerge)
 
 # Contributing
 
